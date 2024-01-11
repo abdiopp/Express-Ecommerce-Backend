@@ -4,9 +4,6 @@
   "description": "ecommerce rest api",
   "main": "server.js",
   "type": "module",
-  "engines": {
-    "node": "18.x"
-  },
   "scripts": {
     "start": "node server.js",
     "server": "nodemon server.js",
